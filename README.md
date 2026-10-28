@@ -45,7 +45,6 @@ GROUP BY u.acquisition_channel;
 2. Monthly Cohort Retention Matrix
 
 Tracked month-over-month user retention decay using a multi-CTE architecture:
-code SQL
 
 WITH user_birth_month AS (
     SELECT 
@@ -71,10 +70,9 @@ FROM user_activity_months
 GROUP BY cohort_month, month_number
 ORDER BY cohort_month ASC, month_number ASC;
 
-3. Proving the "Aha! Moment" (Activation Analysis)
+3. Activation Analysis
 
 Proved the statistical link between early team collaboration and paid conversion:
-code SQL
 
 WITH user_flags AS (
     SELECT 
@@ -114,40 +112,23 @@ A dynamic sensitivity model built to evaluate the Annual Recurring Revenue (ARR)
 Baseline ARR=113.6 new customers/mo×$40×12=$54,528
 Baseline ARR=113.6 new customers/mo×$40×12=$54,528
 
-      
-
-
         
 Projected ARR=194.4 new customers/mo×$40×12=$93,312
 Projected ARR=194.4 new customers/mo×$40×12=$93,312
 
-      
-
-
         
 Net Annual Impact=+$38,784 ARR per 1,000 monthly signups
 Net Annual Impact=+$38,784 ARR per 1,000 monthly signups
-
-      
 
         
 Scaled Across Annual Signups (25,000 users)=25,0001,000×$38,784=+$969,600 ARR
 Scaled Across Annual Signups (25,000 users)=1,00025,000​×$38,784=+$969,600 ARR
 
       
-
 🎯 Strategic Product Recommendations
 
     Move Teammate Invites to Step 2: Prompt team collaboration during initial workspace setup rather than burying it inside project settings.
 
-    Incentivize Team Onboarding: Offer an extended 30-day trial for teams that invite
-
-            
-    ≥2
-    ≥2
-
-          
-
-    colleagues within 48 hours.
+    Incentivize Team Onboarding: Offer an extended 30-day trial for teams that invite ≥2 colleagues within 48 hours.
 
     Deprioritize Single-Player Acquisition Campaigns: Shift ad spend away from solo-freelancer keywords toward team-oriented B2B keywords on LinkedIn and Google Search.

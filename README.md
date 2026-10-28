@@ -125,10 +125,10 @@ Scaled Across Annual Signups (25,000 users)=25,0001,000×$38,784=+$969,600 ARR
 Scaled Across Annual Signups (25,000 users)=1,00025,000​×$38,784=+$969,600 ARR
 
       
-🎯 Strategic Product Recommendations
+Strategic Product Recommendations
 
-    Move Teammate Invites to Step 2: Prompt team collaboration during initial workspace setup rather than burying it inside project settings.
+    1. Move Teammate Invites to Step 2: Prompt team collaboration during initial workspace setup rather than burying it inside project settings.
 
-    Incentivize Team Onboarding: Offer an extended 30-day trial for teams that invite ≥2 colleagues within 48 hours.
+    2. Incentivize Team Onboarding: Offer an extended 30-day trial for teams that invite ≥2 colleagues within 48 hours.
 
-    Deprioritize Single-Player Acquisition Campaigns: Shift ad spend away from solo-freelancer keywords toward team-oriented B2B keywords on LinkedIn and Google Search.
+    3. Deprioritize Single-Player Acquisition Campaigns: Shift ad spend away from solo-freelancer keywords toward team-oriented B2B keywords on LinkedIn and Google Search.

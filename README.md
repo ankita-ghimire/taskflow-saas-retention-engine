@@ -132,3 +132,10 @@ Strategic Product Recommendations
     2. Incentivize Team Onboarding: Offer an extended 30-day trial for teams that invite ≥2 colleagues within 48 hours.
 
     3. Deprioritize Single-Player Acquisition Campaigns: Shift ad spend away from solo-freelancer keywords toward team-oriented B2B keywords on LinkedIn and Google Search.
+
+
+## 📊 Interactive Tableau Dashboard
+Explore the live, interactive executive dashboard here: 
+**[Click here to view on Tableau Public](https://public.tableau.com/app/profile/bliss.bliss/viz/TaskFlowProductAnalyticsDashboard/TaskFlowProductHealthActivationDashboard?publish=yes)**
+
+![TaskFlow Dashboard](Dashboard_preview.png)
